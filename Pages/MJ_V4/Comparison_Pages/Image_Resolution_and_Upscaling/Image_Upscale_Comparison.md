@@ -2,21 +2,21 @@
 
 <hr><!--------------->
 
-<h4><a href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/wiki/%E2%9D%94-How-To-Guide#-how-to-upscale-an-image">❔ How To Upscale an Image</a></h4>
+<h4><a href="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/wiki/%E2%9D%94-How-To-Guide#-how-to-upscale-an-image">❔ How To Upscale an Image</a></h4>
 
 <hr><!--------------->
 
 <div align="center">
 
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />]()
+[<img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V1_inactive.webp?raw=true" alt="MidJourney V1" height="64" />](F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Pages/MJ_V1/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
+[<img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V2_inactive.webp?raw=true" alt="MidJourney V2" height="64" />](F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Pages/MJ_V2/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
+[<img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V3_inactive.webp?raw=true" alt="MidJourney V3" height="64" />](F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Pages/MJ_V3/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md)
+[<img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/Repo_Parts/Buttons/Version_Buttons/button_version_V4_active.webp?raw=true" alt="MidJourney V4" height="64" />]()
 <br>
-[<img src="/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](/Pages/Niji_Journey/Niji_V4/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29)
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_beta_upscale_inactive_half.webp?raw=true" alt="Beta Upscale" height="64" />](/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md)
+[<img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/Repo_Parts/Buttons/Version_Buttons/button_version_niji_inactive_half.webp?raw=true" alt="Niji Journey" height="64" />](F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Pages/Niji_Journey/Niji_V4/Comparison_Pages/Image_Resolution_and_Upscaling/Image_Upscale_Comparison.md#L29)
+[<img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Groups/button_beta_upscale_inactive_half.webp?raw=true" alt="Beta Upscale" height="64" />](F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Pages/Midjourney_Beta_Features/Beta_Upscale_Comparison.md)
 
-[<img src="/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_active.webp?raw=true" alt="V4 Alpha 3" width="140.5" />]()
+[<img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/Repo_Parts/Buttons/Comparison_Page_Buttons/Subgroups/V4_Alpha_Versions/button_V4_alpha_3_active.webp?raw=true" alt="V4 Alpha 3" width="140.5" />]()
 
 </div>
 
@@ -33,46 +33,46 @@
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
-        </td>
-    </tr>
-    <tr align=center valign=middle>
-        <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2.webp?raw=true" width="256" /><p><code>512x512</code></p>
-        </td>
-        <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
-        </td>
-        <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_1_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_2_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
     <tr align=center valign=middle>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4.webp?raw=true" width="256" /><p><code>512x512</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3.webp?raw=true" width="256" /><p><code>512x512</code></p>
         </td>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
         </td>
         <td>
-            <img src="/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_3_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
+        </td>
+    </tr>
+    <tr align=center valign=middle>
+        <td>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4.webp?raw=true" width="256" /><p><code>512x512</code></p>
+        </td>
+        <td>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale.webp?raw=true" width="512" /><p><code>1024x1024</code></p>
+        </td>
+        <td>
+            <img src="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/Images/MJ_V4/V4_Alpha_3/Comparison_Page_Images/Image_Upscale_Comparison/Sphere_4_upscale_light.webp?raw=true" width="512" /><p><code>1536x1536</code></p>
         </td>
     </tr>
 </table>
@@ -83,5 +83,5 @@
 
 <hr><!--------------->
 <div align="center">
-<h6><a href="/README.md">⬅ Go Back To Home Page</a></h6>
+<h6><a href="F://GitHubRepo/MidJourney-Styles-and-Keywords-Reference/README.md">⬅ Go Back To Home Page</a></h6>
 </div>
